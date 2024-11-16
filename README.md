@@ -1,6 +1,6 @@
 # Black Sheep Foods: Shearlock
 ## About
-Contributors: [Bianca Catoto](http://www.github.com/bcatoto), [Rohan Jinturkar](http://www.github.com/rjintu), [Noah Schochet](http://www.github.com/noahschochet)
+Contributors: [Bianca Catoto](http://www.github.com/bcatoto), [Rohan Jinturkar](http://www.github.com/rjintu), [Noah Schochet](http://www.github.com/noahschochet), [Jacob Hernandez](http://www.github.com/jacobh310)
 
 This repository contains all scripts for the Shearlock project. You can experiment with them on our website by [clicking here](http://shearlock.blacksheepfoods.com). The corresponding Github for the front end can be found by [clicking here](http://www.github.com/rjintu/bsf-aws). Due to storage limits, the trained models are not in this repository, but they are available upon request.
 
